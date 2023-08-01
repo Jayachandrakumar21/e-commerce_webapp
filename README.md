@@ -8,7 +8,7 @@ highlights of this project
     redis
     MySQL
     rabbitmq
-  used multi-programming languages to develop this project.
+  used different programming languages to develop this project.
     1.nodejs
     2.python
     3.GoLang
