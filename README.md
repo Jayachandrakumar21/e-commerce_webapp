@@ -1,9 +1,9 @@
-# e-commerce_webApplication
+# e-commerce_WebApplication
 roboshop e-commerce project
 Hi welcome to the E-commerce web application project
 highlights of this project
   it consists of 11 micro-services
-  used 4 different DataBase servers
+  Used 4 different DataBase servers, namely
     MongoDB
     redis
     MySQL
