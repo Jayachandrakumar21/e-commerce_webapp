@@ -1,5 +1,5 @@
 # e-commerce_WebApplication
-roboshop e-commerce project
+Roboshop e-commerce project
 Hi welcome to the E-commerce web application project
 highlights of this project
   it consists of 11 micro-services
@@ -8,7 +8,7 @@ highlights of this project
     redis
     MySQL
     rabbitmq
-  used different programming languages to develop this project.
+  We used different programming languages to develop this project to break the monopoly barrier.
     1.nodejs
     2.python
     3.GoLang
